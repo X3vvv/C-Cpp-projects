@@ -14,11 +14,11 @@
 
 1)The introduction to this system:
 
-  [COMP1011 Assignment 1.pdf](https://github.com/X3vvv/Cpp/blob/master/Food%20Order%20System/COMP1011%20Assignment%201.pdf)
+   [COMP1011 Assignment 1.pdf](https://github.com/X3vvv/Cpp/blob/master/Food%20Order%20System/COMP1011%20Assignment%201.pdf)
 
 2)The source code:
 
-  [main.cpp](https://github.com/X3vvv/Cpp/blob/master/Food%20Order%20System/main.cpp)
+   [main.cpp](https://github.com/X3vvv/Cpp/blob/master/Food%20Order%20System/main.cpp)
 	
 3)The pseudocode:
 
