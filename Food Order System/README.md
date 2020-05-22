@@ -13,11 +13,11 @@
 ## Files Included in This Folder:
 
 
->1) The introduction to this system:
+1) The introduction to this system:
 >>[COMP1011 Assignment 1.pdf](https://github.com/X3vvv/Cpp/blob/master/Food%20Order%20System/COMP1011%20Assignment%201.pdf)
 
->2) The source code:
->>[main.cpp](https://github.com/X3vvv/Cpp/blob/master/Food%20Order%20System/main.cpp)
+2) The source code:
+[main.cpp](https://github.com/X3vvv/Cpp/blob/master/Food%20Order%20System/main.cpp)
 	
 >3) The pseudocode:
 >>[pseudocode.txt](https://github.com/X3vvv/Cpp/blob/master/Food%20Order%20System/pseudocode.txt)
