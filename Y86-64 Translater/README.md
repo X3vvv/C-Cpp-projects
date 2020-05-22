@@ -8,13 +8,13 @@
 ## Files Included in This Folder:
 
 1. The introduction to this program:
-[comp1411_assign2.docx]()
+[comp1411_assign2.docx](https://github.com/X3vvv/Cpp/blob/master/Y86-64%20Translater/comp1411_assign2.docx)
 
 2. The source code:
-[main.cpp]()
+[main.cpp](https://github.com/X3vvv/Cpp/blob/master/Y86-64%20Translater/main.cpp)
 
 3. 5 sample cases and answers:
-[sample_cases.zip]()
+[sample_cases.zip](https://github.com/X3vvv/Cpp/blob/master/Y86-64%20Translater/sample_cases.zip)
 
 4. README file:
-[README.md]()
+[README.md](https://github.com/X3vvv/Cpp/blob/master/Y86-64%20Translater/README.md)
