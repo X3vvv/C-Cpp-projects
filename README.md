@@ -3,4 +3,4 @@
     Author: X3vvv
   
     Introduction:
-      Here are my programs that i found interesting.
+      Here are my c++ programs that i found interesting.
