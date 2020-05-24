@@ -1,14 +1,14 @@
 # 7-23 Cafe Food Order System
 ---------------------------------
 
-## How to use
-	Please run the source code under VS (or others that allow "system()" functions).
-
 ## General Info
 
 	Project:    7-23 Cafe Food Order System
 	Author:     X3vvv
 	Date:       May 20, 2020
+	
+## Note
+	Please run the source code under VS (or others that allow "system()" functions).
 
 ## Files Included in This Folder:
 
