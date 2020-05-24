@@ -14,3 +14,4 @@
 ## Note
 1. Function of system("cls") has been used in this program.  
 2. The algorithm of AI reference from [GeeksforGeeks: Minimax Algorithm](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/).
+![](https://www.pixiv.net/artworks/75372690)
