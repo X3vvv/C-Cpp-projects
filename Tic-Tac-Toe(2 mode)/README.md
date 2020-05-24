@@ -1,15 +1,15 @@
 # Tic-Tac-Toe
 
-### General Info
+## General Info
     Project:    Tic-Tac-Toe (2 Mode)
     Author:     X3vvv
     Date:       May 24, 2020
     
     
-### Features
+## Features
     1. You can choose PvP or PvE mode.
     2. During the game, enter 'c' to turn on/off the gameboard ID switch.
     3. AI difficulty: hardest.
     
-### Note
+## Note
     The algorithm of AI reference from [GeeksforGeeks: Minimax Algorithm](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/).
