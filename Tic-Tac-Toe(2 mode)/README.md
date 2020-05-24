@@ -7,8 +7,8 @@
     
     
 ## Features
-> 1. You can choose PvP or PvE mode.
-2. During the game, enter 'c' to turn on/off the gameboard ID switch.
+> 1. You can choose PvP or PvE mode.  
+2. During the game, enter 'c' to turn on/off the gameboard ID switch.  
 3. AI difficulty: Hardest. (You will either Draw or Lose.)
     
 ## Note
