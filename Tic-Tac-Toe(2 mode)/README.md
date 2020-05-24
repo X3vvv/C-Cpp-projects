@@ -18,5 +18,5 @@
 
 
 
-![pixiv:75372690](https://github.com/X3vvv/pictures/blob/master/75372690_p0.png)
+![pixiv:75372690](https://github.com/X3vvv/Cpp/blob/master/Tic-Tac-Toe(2%20mode)/75372690_p0.png)
 by しおん
