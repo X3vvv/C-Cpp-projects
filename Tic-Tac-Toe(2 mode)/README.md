@@ -19,4 +19,4 @@
 
 
 ![pixiv:75372690](https://github.com/X3vvv/Cpp/blob/master/Tic-Tac-Toe(2%20mode)/75372690_p0.png)
-by しおん
+(pixiv:75372690 by しおん)
