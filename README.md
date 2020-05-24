@@ -1,6 +1,6 @@
 # Cpp
 
-Author:   X3vvv
+by X3vvv
   
 Introduction:
   Here are my c++ programs that i found interesting.
