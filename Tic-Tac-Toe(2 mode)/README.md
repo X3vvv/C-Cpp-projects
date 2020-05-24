@@ -12,5 +12,5 @@
     3. AI difficulty: Hardest. (You will either Draw or Lose.)
     
 ## Note
-   Function of system("cls") has been used in this program. <br/>
+> Function of system("cls") has been used in this program. <br/>
    The algorithm of AI reference from [GeeksforGeeks: Minimax Algorithm](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/).
