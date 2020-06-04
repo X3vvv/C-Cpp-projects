@@ -9,10 +9,10 @@
 ## Features
 1. You can choose PvP or PvE mode.  
 2. During the game, enter 'c' to turn on/off the gameboard ID switch.  
-3. AI difficulty: Hardest. (You will either Draw or Lose.)
+3. AI difficulty: Easy or Ultimate.
     
 ## Note
-1. Function of system("cls") has been used in this program.  
+1. Functions like system("cls") had been used in this program.  
 2. The algorithm of AI reference from [GeeksforGeeks: Minimax Algorithm](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/).  
   
   
