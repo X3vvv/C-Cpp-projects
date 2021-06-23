@@ -1,3 +1,7 @@
+#include <math.h>
+#include <stdio.h>
+#include <stdlib.h>
+
 /* can only handle base <= 10 */
 int convert(int x, int old_base, int new_base) {
     int x_dec = 0;   // x in decimal system
