@@ -1,4 +1,4 @@
-# Cpp
+# C/C++
 
-Interesting C++ projects.
+Interesting C/C++ projects.
 by X3vvv
