@@ -1,4 +1,3 @@
-# C/C++
-
-Interesting C/C++ projects.
-by X3vvv
+C/C++
+-----
+My C/C++ projects.
