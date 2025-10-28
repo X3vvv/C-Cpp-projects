@@ -1,7 +1,8 @@
-﻿/*
+/*
 Project:  Tic-tac-toe (2 modes)
 Author:   X3vvv
 Date:     June 1, 2020
+Edited:   Oct 28, 2025
 
 Note:
     O default first, X second;
@@ -234,6 +235,8 @@ bool start_game() {
         return false;
     case 1:
         return true;
+    default:
+        return false; // never reach here
     }
 }
 
