@@ -14,3 +14,7 @@
 ## Note
 1. Functions like system("cls") had been used in this program.  
 2. The algorithm of AI reference from [GeeksforGeeks: Minimax Algorithm](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/).  
+
+## Screenshots
+![PvE](https://github.com/X3vvv/C-Cpp-projects/blob/master/Tic-Tac-Toe/pve.png)
+![In-game](https://github.com/X3vvv/C-Cpp-projects/blob/master/Tic-Tac-Toe/in-game.png)
